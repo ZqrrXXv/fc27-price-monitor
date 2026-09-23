@@ -1,6 +1,187 @@
 {
-  "version": 1,
-  "game_ids": {},
-  "editions": {},
-  "history": []
+  "editions": {
+    "standard": {
+      "display_name": "Standard",
+      "lowest_seen": 69.99,
+      "offers": {
+        "16:epic": {
+          "currency": "EUR",
+          "cut_pct": 0.0,
+          "first_seen": "2026-09-23T13:15:07+00:00",
+          "in_stock": true,
+          "last_change": "2026-09-23T13:15:07+00:00",
+          "last_price": 69.99,
+          "launcher": "Epic",
+          "lowest_seen": 69.99,
+          "miss_count": 0,
+          "regular_price": 69.99,
+          "shop": "Epic Game Store",
+          "shop_id": 16,
+          "url": "https://itad.link/019f8fda-4d86-7103-9faf-96b5c0d0b37d/?app=zqmdtd"
+        },
+        "52:ea app": {
+          "currency": "EUR",
+          "cut_pct": 0.0,
+          "first_seen": "2026-09-23T13:15:07+00:00",
+          "in_stock": true,
+          "last_change": "2026-09-23T13:15:07+00:00",
+          "last_price": 69.99,
+          "launcher": "EA App",
+          "lowest_seen": 69.99,
+          "miss_count": 0,
+          "regular_price": 69.99,
+          "shop": "EA Store",
+          "shop_id": 52,
+          "url": "https://itad.link/019f8fcc-6c31-70d6-83da-a09a78f87a13/?app=zqmdtd"
+        },
+        "61:steam": {
+          "currency": "EUR",
+          "cut_pct": 0.0,
+          "first_seen": "2026-09-23T13:15:07+00:00",
+          "in_stock": true,
+          "last_change": "2026-09-23T13:15:07+00:00",
+          "last_price": 69.99,
+          "launcher": "Steam",
+          "lowest_seen": 69.99,
+          "miss_count": 0,
+          "regular_price": 69.99,
+          "shop": "Steam",
+          "shop_id": 61,
+          "url": "https://itad.link/019f8fc2-a759-7309-8284-8a22f44421ea/?app=zqmdtd"
+        }
+      }
+    },
+    "ultimate": {
+      "display_name": "Ultimate",
+      "lowest_seen": 99.99,
+      "offers": {
+        "16:epic": {
+          "currency": "EUR",
+          "cut_pct": 0.0,
+          "first_seen": "2026-09-23T13:15:07+00:00",
+          "in_stock": true,
+          "last_change": "2026-09-23T13:15:07+00:00",
+          "last_price": 99.99,
+          "launcher": "Epic",
+          "lowest_seen": 99.99,
+          "miss_count": 0,
+          "regular_price": 99.99,
+          "shop": "Epic Game Store",
+          "shop_id": 16,
+          "url": "https://itad.link/01a05b52-fd09-7155-bedb-21c4c11e8246/?app=zqmdtd"
+        },
+        "52:ea app": {
+          "currency": "EUR",
+          "cut_pct": 0.0,
+          "first_seen": "2026-09-23T13:15:07+00:00",
+          "in_stock": true,
+          "last_change": "2026-09-23T13:15:07+00:00",
+          "last_price": 99.99,
+          "launcher": "EA App",
+          "lowest_seen": 99.99,
+          "miss_count": 0,
+          "regular_price": 99.99,
+          "shop": "EA Store",
+          "shop_id": 52,
+          "url": "https://itad.link/01a05b29-1518-7066-a834-ebda587141ef/?app=zqmdtd"
+        },
+        "61:steam": {
+          "currency": "EUR",
+          "cut_pct": 0.0,
+          "first_seen": "2026-09-23T13:15:07+00:00",
+          "in_stock": true,
+          "last_change": "2026-09-23T13:15:07+00:00",
+          "last_price": 99.99,
+          "launcher": "Steam",
+          "lowest_seen": 99.99,
+          "miss_count": 0,
+          "regular_price": 99.99,
+          "shop": "Steam",
+          "shop_id": 61,
+          "url": "https://itad.link/01a05b2d-c37c-726e-9684-084e66292f37/?app=zqmdtd"
+        }
+      }
+    }
+  },
+  "game_ids": {
+    "standard": {
+      "discovered_at": "2026-09-23T13:15:06+00:00",
+      "id": "019f8fc2-975c-734e-92e6-7d99a6c5996a",
+      "title": "EA SPORTS FC 27"
+    },
+    "ultimate": {
+      "discovered_at": "2026-09-23T13:15:06+00:00",
+      "id": "019f8fc2-a75c-7140-bb31-6dcaa7df910e",
+      "title": "EA SPORTS FC 27 Ultimate Edition"
+    }
+  },
+  "history": [
+    {
+      "currency": "EUR",
+      "edition": "standard",
+      "launcher": "EA App",
+      "new_price": 69.99,
+      "old_price": null,
+      "shop": "EA Store",
+      "timestamp": "2026-09-23T13:15:07+00:00",
+      "type": "price_observation",
+      "url": "https://itad.link/019f8fcc-6c31-70d6-83da-a09a78f87a13/?app=zqmdtd"
+    },
+    {
+      "currency": "EUR",
+      "edition": "standard",
+      "launcher": "Epic",
+      "new_price": 69.99,
+      "old_price": null,
+      "shop": "Epic Game Store",
+      "timestamp": "2026-09-23T13:15:07+00:00",
+      "type": "price_observation",
+      "url": "https://itad.link/019f8fda-4d86-7103-9faf-96b5c0d0b37d/?app=zqmdtd"
+    },
+    {
+      "currency": "EUR",
+      "edition": "standard",
+      "launcher": "Steam",
+      "new_price": 69.99,
+      "old_price": null,
+      "shop": "Steam",
+      "timestamp": "2026-09-23T13:15:07+00:00",
+      "type": "price_observation",
+      "url": "https://itad.link/019f8fc2-a759-7309-8284-8a22f44421ea/?app=zqmdtd"
+    },
+    {
+      "currency": "EUR",
+      "edition": "ultimate",
+      "launcher": "EA App",
+      "new_price": 99.99,
+      "old_price": null,
+      "shop": "EA Store",
+      "timestamp": "2026-09-23T13:15:07+00:00",
+      "type": "price_observation",
+      "url": "https://itad.link/01a05b29-1518-7066-a834-ebda587141ef/?app=zqmdtd"
+    },
+    {
+      "currency": "EUR",
+      "edition": "ultimate",
+      "launcher": "Epic",
+      "new_price": 99.99,
+      "old_price": null,
+      "shop": "Epic Game Store",
+      "timestamp": "2026-09-23T13:15:07+00:00",
+      "type": "price_observation",
+      "url": "https://itad.link/01a05b52-fd09-7155-bedb-21c4c11e8246/?app=zqmdtd"
+    },
+    {
+      "currency": "EUR",
+      "edition": "ultimate",
+      "launcher": "Steam",
+      "new_price": 99.99,
+      "old_price": null,
+      "shop": "Steam",
+      "timestamp": "2026-09-23T13:15:07+00:00",
+      "type": "price_observation",
+      "url": "https://itad.link/01a05b2d-c37c-726e-9684-084e66292f37/?app=zqmdtd"
+    }
+  ],
+  "version": 1
 }
