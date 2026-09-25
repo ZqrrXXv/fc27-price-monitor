@@ -17,7 +17,7 @@
           "regular_price": 69.99,
           "shop": "Epic Game Store",
           "shop_id": 16,
-          "url": "https://itad.link/019f8fda-4d86-7103-9faf-96b5c0d0b37d/?app=zqmdtd"
+          "url": "https://itad.link/01a0d5c2-d827-72ab-99e8-8301575b2520/?app=zqmdtd"
         },
         "52:ea app": {
           "currency": "EUR",
@@ -32,7 +32,7 @@
           "regular_price": 69.99,
           "shop": "EA Store",
           "shop_id": 52,
-          "url": "https://itad.link/019f8fcc-6c31-70d6-83da-a09a78f87a13/?app=zqmdtd"
+          "url": "https://itad.link/01a0d5b0-4e71-7026-aed9-e30a262bd2ad/?app=zqmdtd"
         },
         "61:steam": {
           "currency": "EUR",
@@ -47,7 +47,7 @@
           "regular_price": 69.99,
           "shop": "Steam",
           "shop_id": 61,
-          "url": "https://itad.link/019f8fc2-a759-7309-8284-8a22f44421ea/?app=zqmdtd"
+          "url": "https://itad.link/01a0d5b3-ca54-70a8-8a51-daa3acde6295/?app=zqmdtd"
         }
       }
     },
@@ -68,7 +68,7 @@
           "regular_price": 99.99,
           "shop": "Epic Game Store",
           "shop_id": 16,
-          "url": "https://itad.link/01a05b52-fd09-7155-bedb-21c4c11e8246/?app=zqmdtd"
+          "url": "https://itad.link/01a0d5c2-d828-72e0-b016-4fd20fdb2a30/?app=zqmdtd"
         },
         "52:ea app": {
           "currency": "EUR",
@@ -83,7 +83,7 @@
           "regular_price": 99.99,
           "shop": "EA Store",
           "shop_id": 52,
-          "url": "https://itad.link/01a05b29-1518-7066-a834-ebda587141ef/?app=zqmdtd"
+          "url": "https://itad.link/01a0d5b0-4e73-7338-a00f-fe0e6c22dd0d/?app=zqmdtd"
         },
         "61:steam": {
           "currency": "EUR",
@@ -98,7 +98,7 @@
           "regular_price": 99.99,
           "shop": "Steam",
           "shop_id": 61,
-          "url": "https://itad.link/01a05b2d-c37c-726e-9684-084e66292f37/?app=zqmdtd"
+          "url": "https://itad.link/01a0d5b3-ca55-710b-8e8e-d7d1fbd27519/?app=zqmdtd"
         }
       }
     }
