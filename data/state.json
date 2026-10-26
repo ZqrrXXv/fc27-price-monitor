@@ -53,7 +53,7 @@
     },
     "ultimate": {
       "display_name": "Ultimate",
-      "lowest_seen": 99.99,
+      "lowest_seen": 74.99,
       "offers": {
         "16:epic": {
           "currency": "EUR",
@@ -87,13 +87,13 @@
         },
         "61:steam": {
           "currency": "EUR",
-          "cut_pct": 0.0,
+          "cut_pct": 25.0,
           "first_seen": "2026-09-23T13:15:07+00:00",
           "in_stock": true,
-          "last_change": "2026-09-23T13:15:07+00:00",
-          "last_price": 99.99,
+          "last_change": "2026-10-26T20:32:42+00:00",
+          "last_price": 74.99,
           "launcher": "Steam",
-          "lowest_seen": 99.99,
+          "lowest_seen": 74.99,
           "miss_count": 0,
           "regular_price": 99.99,
           "shop": "Steam",
@@ -181,6 +181,32 @@
       "timestamp": "2026-09-23T13:15:07+00:00",
       "type": "price_observation",
       "url": "https://itad.link/01a05b2d-c37c-726e-9684-084e66292f37/?app=zqmdtd"
+    },
+    {
+      "currency": "EUR",
+      "edition": "ultimate",
+      "launcher": "Steam",
+      "new_price": 74.99,
+      "old_price": 99.99,
+      "shop": "Steam",
+      "timestamp": "2026-10-26T20:32:42+00:00",
+      "type": "price_observation",
+      "url": "https://itad.link/01a0d5b3-ca55-710b-8e8e-d7d1fbd27519/?app=zqmdtd"
+    },
+    {
+      "currency": "EUR",
+      "edition": "ultimate",
+      "launcher": "Steam",
+      "new_price": 74.99,
+      "old_price": 99.99,
+      "reasons": [
+        "significant_drop",
+        "new_low"
+      ],
+      "shop": "Steam",
+      "timestamp": "2026-10-26T20:32:42+00:00",
+      "type": "alert",
+      "url": "https://itad.link/01a0d5b3-ca55-710b-8e8e-d7d1fbd27519/?app=zqmdtd"
     }
   ],
   "version": 1
