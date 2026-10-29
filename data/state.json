@@ -72,13 +72,13 @@
         },
         "52:ea app": {
           "currency": "EUR",
-          "cut_pct": 0.0,
+          "cut_pct": 25.0,
           "first_seen": "2026-09-23T13:15:07+00:00",
           "in_stock": true,
-          "last_change": "2026-09-23T13:15:07+00:00",
-          "last_price": 99.99,
+          "last_change": "2026-10-29T18:30:40+00:00",
+          "last_price": 74.99,
           "launcher": "EA App",
-          "lowest_seen": 99.99,
+          "lowest_seen": 74.99,
           "miss_count": 0,
           "regular_price": 99.99,
           "shop": "EA Store",
@@ -207,6 +207,31 @@
       "timestamp": "2026-10-26T20:32:42+00:00",
       "type": "alert",
       "url": "https://itad.link/01a0d5b3-ca55-710b-8e8e-d7d1fbd27519/?app=zqmdtd"
+    },
+    {
+      "currency": "EUR",
+      "edition": "ultimate",
+      "launcher": "EA App",
+      "new_price": 74.99,
+      "old_price": 99.99,
+      "shop": "EA Store",
+      "timestamp": "2026-10-29T18:30:40+00:00",
+      "type": "price_observation",
+      "url": "https://itad.link/01a0d5b0-4e73-7338-a00f-fe0e6c22dd0d/?app=zqmdtd"
+    },
+    {
+      "currency": "EUR",
+      "edition": "ultimate",
+      "launcher": "EA App",
+      "new_price": 74.99,
+      "old_price": 99.99,
+      "reasons": [
+        "significant_drop"
+      ],
+      "shop": "EA Store",
+      "timestamp": "2026-10-29T18:30:40+00:00",
+      "type": "alert",
+      "url": "https://itad.link/01a0d5b0-4e73-7338-a00f-fe0e6c22dd0d/?app=zqmdtd"
     }
   ],
   "version": 1
