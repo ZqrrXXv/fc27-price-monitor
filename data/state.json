@@ -53,17 +53,17 @@
     },
     "ultimate": {
       "display_name": "Ultimate",
-      "lowest_seen": 74.99,
+      "lowest_seen": 49.99,
       "offers": {
         "16:epic": {
           "currency": "EUR",
-          "cut_pct": 0.0,
+          "cut_pct": 50.0,
           "first_seen": "2026-09-23T13:15:07+00:00",
           "in_stock": true,
-          "last_change": "2026-09-23T13:15:07+00:00",
-          "last_price": 99.99,
+          "last_change": "2026-11-18T00:59:31+00:00",
+          "last_price": 49.99,
           "launcher": "Epic",
-          "lowest_seen": 99.99,
+          "lowest_seen": 49.99,
           "miss_count": 0,
           "regular_price": 99.99,
           "shop": "Epic Game Store",
@@ -254,6 +254,33 @@
       "timestamp": "2026-11-02T21:44:07+00:00",
       "type": "price_observation",
       "url": "https://itad.link/01a0d5b3-ca55-710b-8e8e-d7d1fbd27519/?app=zqmdtd"
+    },
+    {
+      "currency": "EUR",
+      "edition": "ultimate",
+      "launcher": "Epic",
+      "new_price": 49.99,
+      "old_price": 99.99,
+      "shop": "Epic Game Store",
+      "timestamp": "2026-11-18T00:59:31+00:00",
+      "type": "price_observation",
+      "url": "https://itad.link/01a0d5c2-d828-72e0-b016-4fd20fdb2a30/?app=zqmdtd"
+    },
+    {
+      "currency": "EUR",
+      "edition": "ultimate",
+      "launcher": "Epic",
+      "new_price": 49.99,
+      "old_price": 99.99,
+      "reasons": [
+        "budget",
+        "significant_drop",
+        "new_low"
+      ],
+      "shop": "Epic Game Store",
+      "timestamp": "2026-11-18T00:59:31+00:00",
+      "type": "alert",
+      "url": "https://itad.link/01a0d5c2-d828-72e0-b016-4fd20fdb2a30/?app=zqmdtd"
     }
   ],
   "version": 1
