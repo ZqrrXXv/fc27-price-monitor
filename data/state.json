@@ -2,7 +2,7 @@
   "editions": {
     "standard": {
       "display_name": "Standard",
-      "lowest_seen": 69.99,
+      "lowest_seen": 34.99,
       "offers": {
         "16:epic": {
           "currency": "EUR",
@@ -21,13 +21,13 @@
         },
         "52:ea app": {
           "currency": "EUR",
-          "cut_pct": 0.0,
+          "cut_pct": 50.0,
           "first_seen": "2026-09-23T13:15:07+00:00",
           "in_stock": true,
-          "last_change": "2026-09-23T13:15:07+00:00",
-          "last_price": 69.99,
+          "last_change": "2026-11-19T20:42:27+00:00",
+          "last_price": 34.99,
           "launcher": "EA App",
-          "lowest_seen": 69.99,
+          "lowest_seen": 34.99,
           "miss_count": 0,
           "regular_price": 69.99,
           "shop": "EA Store",
@@ -36,13 +36,13 @@
         },
         "61:steam": {
           "currency": "EUR",
-          "cut_pct": 0.0,
+          "cut_pct": 50.0,
           "first_seen": "2026-09-23T13:15:07+00:00",
           "in_stock": true,
-          "last_change": "2026-09-23T13:15:07+00:00",
-          "last_price": 69.99,
+          "last_change": "2026-11-19T20:42:27+00:00",
+          "last_price": 34.99,
           "launcher": "Steam",
-          "lowest_seen": 69.99,
+          "lowest_seen": 34.99,
           "miss_count": 0,
           "regular_price": 69.99,
           "shop": "Steam",
@@ -281,6 +281,60 @@
       "timestamp": "2026-11-18T00:59:31+00:00",
       "type": "alert",
       "url": "https://itad.link/01a0d5c2-d828-72e0-b016-4fd20fdb2a30/?app=zqmdtd"
+    },
+    {
+      "currency": "EUR",
+      "edition": "standard",
+      "launcher": "EA App",
+      "new_price": 34.99,
+      "old_price": 69.99,
+      "shop": "EA Store",
+      "timestamp": "2026-11-19T20:42:27+00:00",
+      "type": "price_observation",
+      "url": "https://itad.link/01a0d5b0-4e71-7026-aed9-e30a262bd2ad/?app=zqmdtd"
+    },
+    {
+      "currency": "EUR",
+      "edition": "standard",
+      "launcher": "EA App",
+      "new_price": 34.99,
+      "old_price": 69.99,
+      "reasons": [
+        "budget",
+        "significant_drop",
+        "new_low"
+      ],
+      "shop": "EA Store",
+      "timestamp": "2026-11-19T20:42:27+00:00",
+      "type": "alert",
+      "url": "https://itad.link/01a0d5b0-4e71-7026-aed9-e30a262bd2ad/?app=zqmdtd"
+    },
+    {
+      "currency": "EUR",
+      "edition": "standard",
+      "launcher": "Steam",
+      "new_price": 34.99,
+      "old_price": 69.99,
+      "shop": "Steam",
+      "timestamp": "2026-11-19T20:42:27+00:00",
+      "type": "price_observation",
+      "url": "https://itad.link/01a0d5b3-ca54-70a8-8a51-daa3acde6295/?app=zqmdtd"
+    },
+    {
+      "currency": "EUR",
+      "edition": "standard",
+      "launcher": "Steam",
+      "new_price": 34.99,
+      "old_price": 69.99,
+      "reasons": [
+        "budget",
+        "significant_drop",
+        "new_low"
+      ],
+      "shop": "Steam",
+      "timestamp": "2026-11-19T20:42:27+00:00",
+      "type": "alert",
+      "url": "https://itad.link/01a0d5b3-ca54-70a8-8a51-daa3acde6295/?app=zqmdtd"
     }
   ],
   "version": 1
